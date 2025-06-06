@@ -10,7 +10,7 @@
 
 I’m a DevOps Engineer with over 4 years of experience, passionate about building secure, scalable, and reliable infrastructure in the cloud. I enjoy automating processes, designing CI/CD pipelines, and working with teams to deliver solutions that just work.
 
-- I work daily with AWS and Azure, using tools like Terraform, ARM Templates, and Ansible for infrastructure.
+- I work extensively with AWS and Azure, using tools like Terraform, ARM Templates, and Ansible for infrastructure.
 - I build and manage CI/CD pipelines with Jenkins, GitHub Actions, Azure DevOps, and GitLab CI/CD.
 - My experience includes Docker, Kubernetes (EKS & AKS), Helm, and Argo CD for containerized deployments.
 - Security and monitoring are top priorities: I use IAM, Security Groups, WAF, Prometheus, Grafana, CloudWatch, and the ELK stack.
@@ -20,7 +20,7 @@ I’m a DevOps Engineer with over 4 years of experience, passionate about buildi
 
 ### What I Do
 
-- Automate infrastructure provisioning and deployments
+- Automate infrastructure provisioning and deployment
 - Build secure, reusable cloud architectures
 - Design and optimize CI/CD workflows for Java and microservices
 - Implement secrets management, monitoring, and alerting
